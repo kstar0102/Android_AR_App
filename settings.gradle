@@ -1,0 +1,7 @@
+include ':core', ':ux', ':sceneform',
+        // Samples
+        ':sample-augmented-images'
+
+// Dirs
+
+project(':sample-augmented-images').projectDir = new File('samples/augmented-images')

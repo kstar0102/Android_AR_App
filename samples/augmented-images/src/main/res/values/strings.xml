@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AR Augmented Images</string>
+    <string name="offline_text">Your net offline.</string>
+</resources>
